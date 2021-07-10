@@ -1,4 +1,4 @@
-# Clome Instagram 📸
+# Clone Instagram 📸
 
 O projeto trata de uma página clone da tela da abertura do instagram.
 

@@ -1,8 +1,8 @@
-Amostra Clone Instagram 📸
+**Clone Instagram** 📸
 
 O projeto trata de uma página clone da tela da abertura do instagram.
 
-💻 Tecnologias Utilizadas: 
+💻 **Tecnologias Utilizadas:** 
 
 - CSS			
 - HTML

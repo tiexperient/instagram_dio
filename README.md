@@ -1,6 +1,6 @@
 # Clone Instagram 📸
 
-O projeto trata de uma página clone da tela da abertura do instagram.
+O projeto trata de uma página clone da tela de abertura do instagram.
 
 💻 **Tecnologias Utilizadas:** 
 

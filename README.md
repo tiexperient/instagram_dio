@@ -1,11 +1,9 @@
-#Amostra Clone Instagram :camera_flash:
+Amostra Clone Instagram 📸
 
 O projeto trata de uma página clone da tela da abertura do instagram.
 
-💻 **Tecnologias Utilizadas:** 
+💻 Tecnologias Utilizadas: 
 
 - CSS			
-
 - HTML
-
-  **Desenvolvido por: ** Célia Medeiros 💛
+  Desenvolvido por:  Célia Medeiros 💛

@@ -1,4 +1,4 @@
-**Clone Instagram** 📸
+# Clome Instagram 📸
 
 O projeto trata de uma página clone da tela da abertura do instagram.
 
@@ -7,4 +7,4 @@ O projeto trata de uma página clone da tela da abertura do instagram.
 - CSS			
 - HTML
 
-  Desenvolvido por:  Célia Medeiros 💛
+  **Desenvolvido por:**  Célia Medeiros 💛

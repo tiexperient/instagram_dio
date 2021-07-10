@@ -6,4 +6,5 @@ O projeto trata de uma página clone da tela da abertura do instagram.
 
 - CSS			
 - HTML
+
   Desenvolvido por:  Célia Medeiros 💛
